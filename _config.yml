@@ -44,4 +44,8 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-description: CIT485 1st blog
+description: "I had to set up the Docker environment. After exercising some Docker\
+  \ command, I created my container and\_ had to set up an login user-id and password\
+  \ and password and connected it using ssh.sandbox.csun.edu server. At the end I\
+  \ had to make a report and answer a couple of questions and then turn in that lab\
+  \ report."
