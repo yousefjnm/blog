@@ -1,0 +1,9 @@
+---
+author: Yosef Osman
+comments: true
+date: 2019-09-07 23:32:46.087767
+layout: post
+title: CIT485 1st blog
+slug: cit485-1st-blog
+---
+__I had to set up the Docker environment. After exercising some Docker command, I created my container and&nbsp; had to set up an login user-id and password and password and connected it using ssh.sandbox.csun.edu server. At the end I had to make a report and answer a couple of questions and then turn in that lab report.__
